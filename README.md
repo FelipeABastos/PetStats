@@ -11,6 +11,11 @@ Swift 5
 UIKit
 ```
 
+## This class uses:
+```
+UICollectionView
+```
+
 ## Authors
 
 * **Felipe Bastos** 
