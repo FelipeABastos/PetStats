@@ -25,4 +25,4 @@ UICollectionView
 * **Felipe Bastos** 
 
 ## App working
-<img align="center" width="270" height="540" src="https://github.com/FelipeABastos/PetStats/blob/master/PetStats.gif"> 
+<img align="center" width="270" height="540" src="https://github.com/FelipeABastos/PetStats/blob/master/PetStatsOficial.gif"> 
