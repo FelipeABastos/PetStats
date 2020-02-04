@@ -16,6 +16,10 @@ UIKit
 UICollectionView
 ```
 
+## Pods
+
+* Kingfisher
+
 ## Authors
 
 * **Felipe Bastos** 
