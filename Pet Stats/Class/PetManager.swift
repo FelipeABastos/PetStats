@@ -34,7 +34,7 @@ class PetManager {
                             dogFriendly: 1,
                             dogObedient: 0.8)
     
-    let frenchBulldogs = Pet(imageDog: "https://www.pets4homes.co.uk/images/breeds/56/large/9b8f8158056fc5420a03372c9772678e.jpeg",
+    let frenchBulldogs = Pet(imageDog: "https://vetstreet.brightspotcdn.com/dims4/default/abbb834/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F66%2F74b3b0a0d411e0a2380050568d634f%2Ffile%2FFrench-Bulldog-2-645mk062111.jpg",
                             dogRace: "French Bulldog",
                             dogOrigin: "France",
                             dogWeight: 0.7,
