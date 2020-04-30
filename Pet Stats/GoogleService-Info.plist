@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>691523496881-gdv5lhteetkf7mpu26ob4631dslbnr4b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.691523496881-gdv5lhteetkf7mpu26ob4631dslbnr4b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-G-kgpCipS5xeoGKlQs3yasmFZBjudpo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>691523496881</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.FelipeBastos.Pet-Stats</string>
+	<key>PROJECT_ID</key>
+	<string>petstats-5dfbf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>petstats-5dfbf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:691523496881:ios:a973acde25b64ce9156b90</string>
+	<key>DATABASE_URL</key>
+	<string>https://petstats-5dfbf.firebaseio.com</string>
+</dict>
+</plist>
